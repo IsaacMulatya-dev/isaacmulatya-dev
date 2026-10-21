@@ -23,3 +23,5 @@ Contact
 LinkedIn: linkedin.com/in/isaac-k-mulatya
 
 Email: imulatya30@gmail.com
+
+Mobile: 0114161227
