@@ -29,8 +29,8 @@ A **Software Developer** and **DevSecOps Enthusiast** focused on building secure
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacMulatya-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Isaac's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMulatya-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=IsaacMulatya-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Isaac's GitHub Stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=IsaacMulatya-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
 </p>
 
 <p align="left">
