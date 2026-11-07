@@ -1,10 +1,10 @@
-# Hi, I'm Isaac Mulatya 👋
+# Hi, I'm Isaac Mulatya
 
-A **Software Developer** and **DevSecOps Enthusiast** focused on building secure web architectures and data-driven solutions. My work centers on building reliable systems, managing database architectures, and automating workflows across diverse language environments.
+A **Software Developer** and **DevSecOps Enthusiast** focused on building secure web architectures and data-driven solutions. My work centers on building reliable systems, managing database architectures and automating workflows across diverse language environments.
 
 ---
 
-### 🌐 Tech Stack & Tools
+### Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ A **Software Developer** and **DevSecOps Enthusiast** focused on building secure
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaacMulatya-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Isaac's GitHub Stats" width="48%" />
@@ -37,15 +37,15 @@ A **Software Developer** and **DevSecOps Enthusiast** focused on building secure
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-* **[Disaster Prediction and Response System](https://github.com/IsaacMulatya-dev/disaster-prediction-response-system)** — Real-time disaster prediction and response platform built with React, TypeScript, Tailwind CSS, and Supabase.
-* **[AfyaBora HMS](https://github.com/IsaacMulatya-dev/afyabora-hms)** — Hospital management system designed to streamline patient records, pharmacy inventory, and appointments.
-* **[Backend Explorer](https://github.com/IsaacMulatya-dev/backend-explorer)** — Express and Node API architecture featuring JWT authentication, structured logging, and database management.
+* **[Disaster Prediction and Response System](https://github.com/IsaacMulatya-dev/disaster-prediction-response-system)** — Real-time disaster prediction and response platform built with React, TypeScript, Tailwind CSS and Supabase.
+* **[AfyaBora HMS](https://github.com/IsaacMulatya-dev/afyabora-hms)** — Hospital management system designed to streamline patient records, pharmacy inventory  and appointments.
+* **[Backend Explorer](https://github.com/IsaacMulatya-dev/backend-explorer)** — Express and Node API architecture featuring JWT authentication, structured logging and database management.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/isaac-k-mulatya](https://www.linkedin.com/in/isaac-k-mulatya)
 * **Email:** [imulatya30@gmail.com](mailto:imulatya30@gmail.com)
