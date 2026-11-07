@@ -38,6 +38,9 @@ A **Software Developer** and **DevSecOps Enthusiast** focused on building secure
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsaacMulatya-dev/IsaacMulatya-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
 
 ### Featured Projects
 
