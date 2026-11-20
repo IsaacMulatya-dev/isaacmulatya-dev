@@ -59,4 +59,4 @@ A **Software Developer** and **DevSecOps Enthusiast** focused on building secure
 
 * **LinkedIn:** [linkedin.com/in/isaac-k-mulatya](https://www.linkedin.com/in/isaac-k-mulatya)
 * **Email:** [imulatya30@gmail.com](mailto:imulatya30@gmail.com)
-* **Mobile:** +254 714 161 227
+* **Mobile:** +254 114 161 227
